@@ -104,7 +104,7 @@ $(function(){
 			.css("width",preload.loadedPer+"%")
 			.one(transitionEvents, function(){
 				if(parseInt(preload.loadedPer)>=99){
-					$loading.find(".loading-text").text("别管了，点击下方按钮接收圣诞祝福哦，记得打开声音，哈哈哈哈哈");
+					$loading.find(".loading-text").text("完美的圣诞，感谢遇到小福星！哈哈哈哈哈，希望以后还有很多圣诞可以过~");
 					$("#j-playBgMusic").fadeIn(200);
 				}
 			})
