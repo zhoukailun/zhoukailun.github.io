@@ -1,26 +1,26 @@
 [
   {
     "name": "2022-12-11",
-    "image": "https://avatars1.githubusercontent.com/u/30557565",
+    "image": "https://pan.baidu.com/s/1sABc6YMgZMvMeZo5zEVdUQ?pwd=jex5",
     "message": "这一天我们第一次相遇，相遇在这里",
     "username": "zhoukailun",
-    // "flag": "mg"
+    "flag": "cn"
   },
   {
     "name": "Mamy RAOBY",
     "image": "https://avatars0.githubusercontent.com/u/20433600",
     "message": "Arahaba nahatratra ny taona vaovao indray. Ho taona zina ho antsika anie ny {{YEAR}} .",
     "username": "MamyRaoby",
-    // "flag": "mg"
+    "flag": "cn"
   },
   {
     "name": "RATOVOARISON Bruno Marcelino",
     "image": "https://avatars2.githubusercontent.com/u/43740085",
-    // "flag": "mg"
+    "flag": "sg"
   },
   {
     "name": "Chrys RAKOTONIMANANA",
     "image": "https://i.pinimg.com/originals/93/d3/e3/93d3e31639a4d07613de9dccdc8bd5e8.png",
-    "flag": "cn"
+    "flag": "sg"
   }
 ]
