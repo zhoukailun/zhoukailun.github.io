@@ -1,85 +1,34 @@
-## Getting started
-* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-* Clone your fork down to your local machine
+Happy Birthday
 
-```markdown
-git clone https://github.com/your-username/hacktoberfest.git
+A Happy Birthday animation design in CSS3, HTML5.
+
+URL: http://ayusharma.github.io/birthday/
+
+Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
+
+# Setup
+
+## If you have python installed:
+```
+cd Birthday
 ```
 
-* Create a branch
+&& 
 
-```markdown
-git checkout -b branch-name
+```
+python -m SimpleHTTPServer --port  8081
 ```
 
-* Make your changes 
-* Commit and push
+visit http://localhost:8081 in your browser.
 
-```markdown
-git add .
-git commit -m 'Commit message'
-git push origin branch-name
+## If you have nodejs installed
 ```
-
-* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
-* Wait for your PR review and merge approval!
-* __Star this repository__ if you had fun!
-
-
-## Happy new year message.
-
-Hey! new year eve are comming, be prepared to the "FEAST"
-Having fun is the first way you think but don't forget to make a wish.
-
-`So let's share our wish.`
-
-## Getting started
-* Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
-* Clone your fork down to your local machine
-
-```markdown
-git clone (copy the repo link here)
+npm install
 ```
+&&
 
-* Create a branch
-
-```markdown
-git checkout -b branch-name
 ```
-
-* Make your changes (choose from any task below)
-* Commit and push
-
-```markdown
-git add .
-git commit -m 'Commit message'
-git push origin branch-name
+npm run server-node
 ```
+visit http://localhost:8081 in your browser.
 
-* Create a new pull request from your forked repository (Click the `New Pull Request` button located at the top of your repo)
-* Wait for your PR review and merge approval!
-* __Star this repository__ if you had fun!
-
-
-## Want to wish ? :tada:
-
-Go to USER.json, follow the structure, and that's it.
-___
-- Your name ```"name":"julkwel"```
-
-- Your image link, (like fb profile, ... , preference github image link) ```"image":"image_link"```
-
-- Your wishes ```"message":"your_message"```
-
-- Github url ```"username":"github_username"```
-
-- Flag : see [this link](http://flag-icon-css.lip.is/?continent=Africa) , eg: `mg` for Madagascar
-
-___
-
-## FEATURE
-
-1. Translation
-
-
-*Code for fun :blush:* 
